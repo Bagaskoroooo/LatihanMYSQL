@@ -112,8 +112,10 @@ Lalu kita jadikan kolom email menjadi UNIQUE KEY dengan peritah seperti dibawah 
 ![ss14](https://user-images.githubusercontent.com/130354090/230887928-82f64419-b237-4cbc-918d-ef488a7d8052.png)
 
 *Apa maksud dari int (11)? 
+
 Yang dimaksud int(11) artinya suatu data yang dipakai atau digunakan menggunakan tipe data int atau integer dengan length atau panjang karakter 11.
 
 *Apa yang dimaksud dengan kolom Null yang berisi yes dan no?
+
 Ketika kita melihat struktur tabel dengan perintah desc, ada kolom Null yang berisi Yes dan No. Apa maksudnya? Apabila Null berisi no, maka data tersebut nantinya akan dilakukan pengisian atau penginputan. Sedangkan apabila Null berisi yes, maka artinya data tersebut akan dikosongkan atau tidak dilakukan penginputan.
 
