@@ -11,6 +11,7 @@ pertama kita membuat database latihan2 dengan perintah seperti dibawah
 2. Menampilkan Semua Database
 
 untuk menampilkan semua database yang pernah kita buat kita bisa menggunakan perintah seperti dibawah
+
 ``` show databases; ```
 
 ![ss2](https://user-images.githubusercontent.com/130354090/230883001-6627b0df-03e1-4621-b36e-fd3f0d388f4c.png)
@@ -39,7 +40,7 @@ Kita bisa menambahkan kolom id di awal tabel dengan perintah seperti dibawah
 
 Selanjutnya adalah menambahkan kolom phone setelah kolom alamat dengan perintah seperti dibawah
 
-``` alter table biodata ADD phone VARCHAR(15) AFTER alamat; ````
+``` alter table biodata ADD phone VARCHAR(15) AFTER alamat; ```
 
 ![ss5](https://user-images.githubusercontent.com/130354090/230884914-80993380-6a62-40bf-ab61-209f5bdf23d2.png)
 
